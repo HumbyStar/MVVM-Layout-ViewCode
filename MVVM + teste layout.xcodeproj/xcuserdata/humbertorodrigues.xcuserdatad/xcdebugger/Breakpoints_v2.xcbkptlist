@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9F8BACAF-85D5-4C44-A857-5510773B800C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "556CFA6E-7DE0-4871-8A5B-1FD3A4895200"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVM + teste layout/Cell/MyCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "tappedHearthButton(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6F1E34CE-8271-4461-9887-A96CDD776751"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVM + teste layout/View/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "tappedButton(_:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "473C6DC1-CAD0-4329-B18D-3DD3774EBC87"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVM + teste layout/ViewModel/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "changeHearthHuman(human:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "473C6DC1-CAD0-4329-B18D-3DD3774EBC87 - c62e76cc2f728bc7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVM___teste_layout.ViewModel.changeHearthHuman(human: MVVM___teste_layout.Human) -&gt; ()"
+                  moduleName = "MVVM + teste layout"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/humbertorodrigues/Desktop/Meus%20Apps%20Pro%CC%81prios/MVVM%20+%20teste%20layout/MVVM%20+%20teste%20layout/ViewModel/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "180">
+               </Location>
+               <Location
+                  uuid = "473C6DC1-CAD0-4329-B18D-3DD3774EBC87 - c62e76cc2f728bc7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVM___teste_layout.ViewModel.changeHearthHuman(human: MVVM___teste_layout.Human) -&gt; ()"
+                  moduleName = "MVVM + teste layout"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/humbertorodrigues/Desktop/Meus%20Apps%20Pro%CC%81prios/MVVM%20+%20teste%20layout/MVVM%20+%20teste%20layout/ViewModel/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "364">
+               </Location>
+               <Location
+                  uuid = "473C6DC1-CAD0-4329-B18D-3DD3774EBC87 - 44514fab42eabf90"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (MVVM___teste_layout.Human) -&gt; Swift.Bool in MVVM___teste_layout.ViewModel.changeHearthHuman(human: MVVM___teste_layout.Human) -&gt; ()"
+                  moduleName = "MVVM + teste layout"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/humbertorodrigues/Desktop/Meus%20Apps%20Pro%CC%81prios/MVVM%20+%20teste%20layout/MVVM%20+%20teste%20layout/ViewModel/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8D10346D-4AE7-4E5C-871D-A2BC62D6E633"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVM + teste layout/ViewModel/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "changeHearthHuman(human:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "39290FD3-17FE-46BC-93E6-DFDCA6376D2D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVM + teste layout/Cell/MyCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "tappedHearthButton(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "69A47929-9CCC-4373-BAA8-6EC61F125E7D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVM + teste layout/Cell/MyCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "tappedHearthButton(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "587B6C28-EDC5-4F41-A937-5223956165D8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVM + teste layout/Cell/MyCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "verticalStack"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "587B6C28-EDC5-4F41-A937-5223956165D8 - 44d0fdb30807f68a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVM___teste_layout.MyCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; MVVM___teste_layout.MyCell"
+                  moduleName = "MVVM + teste layout"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/humbertorodrigues/Desktop/Meus%20Apps%20Pro%CC%81prios/MVVM%20+%20teste%20layout/MVVM%20+%20teste%20layout/Cell/MyCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "256">
+               </Location>
+               <Location
+                  uuid = "587B6C28-EDC5-4F41-A937-5223956165D8 - 9f3cb236438491ad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVM___teste_layout.MyCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;MVVM___teste_layout.MyCell&gt;"
+                  moduleName = "MVVM + teste layout"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/humbertorodrigues/Desktop/Meus%20Apps%20Pro%CC%81prios/MVVM%20+%20teste%20layout/MVVM%20+%20teste%20layout/Cell/MyCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "248">
+               </Location>
+               <Location
+                  uuid = "587B6C28-EDC5-4F41-A937-5223956165D8 - c74e3d40f15eeec3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVM___teste_layout.MyCell.verticalStack.getter : __C.UIStackView"
+                  moduleName = "MVVM + teste layout"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/humbertorodrigues/Desktop/Meus%20Apps%20Pro%CC%81prios/MVVM%20+%20teste%20layout/MVVM%20+%20teste%20layout/Cell/MyCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "587B6C28-EDC5-4F41-A937-5223956165D8 - e8aa87c3a1292ae7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVM___teste_layout.MyCell.verticalStack.setter : __C.UIStackView"
+                  moduleName = "MVVM + teste layout"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/humbertorodrigues/Desktop/Meus%20Apps%20Pro%CC%81prios/MVVM%20+%20teste%20layout/MVVM%20+%20teste%20layout/Cell/MyCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "587B6C28-EDC5-4F41-A937-5223956165D8 - 596d1ba2e0d54fca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVM___teste_layout.MyCell.verticalStack.modify : __C.UIStackView"
+                  moduleName = "MVVM + teste layout"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/humbertorodrigues/Desktop/Meus%20Apps%20Pro%CC%81prios/MVVM%20+%20teste%20layout/MVVM%20+%20teste%20layout/Cell/MyCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "587B6C28-EDC5-4F41-A937-5223956165D8 - 2d419161b5368d2b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVM___teste_layout.MyCell.verticalStack.modify : __C.UIStackView with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "MVVM + teste layout"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/humbertorodrigues/Desktop/Meus%20Apps%20Pro%CC%81prios/MVVM%20+%20teste%20layout/MVVM%20+%20teste%20layout/Cell/MyCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "587B6C28-EDC5-4F41-A937-5223956165D8 - a5d17d8502422321"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; __C.UIStackView in MVVM___teste_layout.MyCell.verticalStack.getter : __C.UIStackView"
+                  moduleName = "MVVM + teste layout"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/humbertorodrigues/Desktop/Meus%20Apps%20Pro%CC%81prios/MVVM%20+%20teste%20layout/MVVM%20+%20teste%20layout/Cell/MyCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
